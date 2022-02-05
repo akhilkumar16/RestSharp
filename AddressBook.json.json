@@ -1,0 +1,37 @@
+{
+  "AddressBook": [
+    {
+      "id": 1,
+      "FirstName": "Virat",
+      "LastName": "Kholi",
+      "Address": "Rcb",
+      "City": "banglore",
+      "State": "karnataka",
+      "ZipCode": 4,
+      "PhoneNumber": "",
+      "Email": "virat@gmail.com"
+    },
+    {
+      "id": 2,
+      "FirstName": "Rohit",
+      "LastName": "Sharma",
+      "Address": "Mi",
+      "City": "mumbai",
+      "State": "Maharashtra",
+      "ZipCode": 9,
+      "PhoneNumber": "1254623",
+      "Email": "rohit@gmail.com"
+    },
+    {
+      "id": 3,
+      "FirstName": "Kl",
+      "LastName": "Rahul",
+      "Address": "kxipunjab",
+      "City": "punjab",
+      "State": "haryana",
+      "ZipCode": 7,
+      "PhoneNumber": "5124632",
+      "Email": "rahul@gmail.com"
+    }
+  ]
+}
