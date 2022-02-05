@@ -7,7 +7,7 @@ namespace EmployeeResetSharp
     public class Employee
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Salary { get; set; }
+        public string name { get; set; }
+        public string salary { get; set; }
     }
 }
