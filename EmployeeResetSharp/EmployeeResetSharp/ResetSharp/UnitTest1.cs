@@ -90,7 +90,29 @@ namespace MSTESTRestSharp
                 System.Console.WriteLine(response.Content);
             }
         }
+        //UC4 //
+        [TestMethod]
+        public void OnCallingPutAPI_ReturnEmployeeObject()
+        {
+            // Arrange
+            
+            RestRequest request = new RestRequest("/employees/5", Method.Put);
+            JObject jsonObj = new JObject();
+            jsonObj.Add("Name", "lasya");
+            jsonObj.Add("Salary", "45000");
+            request.AddParameter("application/json", jsonObj, ParameterType.RequestBody);
+
+            // Act
+            RestResponse response = client.ExecuteAsync(request).Result;
+
+            // Assert
+            Assert.AreEqual(HttpStatusCode.OK, response.StatusCode);
+            Employee employee = JsonConvert.DeserializeObject<Employee>(response.Content);
+            Assert.AreEqual("Shubham", employee.name);
+            Assert.AreEqual("65000", employee.salary);
+            Console.WriteLine(response.Content);
+        }
     }
 }
-
+    
    
