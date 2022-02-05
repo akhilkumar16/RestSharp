@@ -1,0 +1,14 @@
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\bin\Debug\netcoreapp3.1\EmployeeResetSharp.exe
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\bin\Debug\netcoreapp3.1\EmployeeResetSharp.deps.json
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\bin\Debug\netcoreapp3.1\EmployeeResetSharp.runtimeconfig.json
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\bin\Debug\netcoreapp3.1\EmployeeResetSharp.runtimeconfig.dev.json
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\bin\Debug\netcoreapp3.1\EmployeeResetSharp.dll
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\bin\Debug\netcoreapp3.1\EmployeeResetSharp.pdb
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\obj\Debug\netcoreapp3.1\EmployeeResetSharp.csproj.AssemblyReference.cache
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\obj\Debug\netcoreapp3.1\EmployeeResetSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\obj\Debug\netcoreapp3.1\EmployeeResetSharp.AssemblyInfoInputs.cache
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\obj\Debug\netcoreapp3.1\EmployeeResetSharp.AssemblyInfo.cs
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\obj\Debug\netcoreapp3.1\EmployeeResetSharp.csproj.CoreCompileInputs.cache
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\obj\Debug\netcoreapp3.1\EmployeeResetSharp.dll
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\obj\Debug\netcoreapp3.1\EmployeeResetSharp.pdb
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\EmployeeResetSharp\obj\Debug\netcoreapp3.1\EmployeeResetSharp.genruntimeconfig.cache

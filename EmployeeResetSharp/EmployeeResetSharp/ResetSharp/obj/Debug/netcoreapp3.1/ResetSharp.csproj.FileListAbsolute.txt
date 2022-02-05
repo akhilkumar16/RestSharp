@@ -1,0 +1,6 @@
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\ResetSharp\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\ResetSharp\obj\Debug\netcoreapp3.1\ResetSharp.csproj.AssemblyReference.cache
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\ResetSharp\obj\Debug\netcoreapp3.1\ResetSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\ResetSharp\obj\Debug\netcoreapp3.1\ResetSharp.AssemblyInfoInputs.cache
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\ResetSharp\obj\Debug\netcoreapp3.1\ResetSharp.AssemblyInfo.cs
+E:\Bridgelabz\RESTSharp\EmployeeResetSharp\EmployeeResetSharp\ResetSharp\obj\Debug\netcoreapp3.1\ResetSharp.csproj.CoreCompileInputs.cache
