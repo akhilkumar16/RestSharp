@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeResetSharp", "EmployeeResetSharp\EmployeeResetSharp.csproj", "{A50515F3-C91D-469D-87E3-B3827E5ED472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResetSharp", "ResetSharp\ResetSharp.csproj", "{7A5ED7E0-FA08-48C2-9C83-581BF9402587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A50515F3-C91D-469D-87E3-B3827E5ED472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50515F3-C91D-469D-87E3-B3827E5ED472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50515F3-C91D-469D-87E3-B3827E5ED472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50515F3-C91D-469D-87E3-B3827E5ED472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A5ED7E0-FA08-48C2-9C83-581BF9402587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5ED7E0-FA08-48C2-9C83-581BF9402587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5ED7E0-FA08-48C2-9C83-581BF9402587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5ED7E0-FA08-48C2-9C83-581BF9402587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E826DD5F-BBB1-4CA4-9DC9-F55E72B5DA06}
+	EndGlobalSection
+EndGlobal
