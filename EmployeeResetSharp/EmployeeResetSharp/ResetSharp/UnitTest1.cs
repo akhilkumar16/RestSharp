@@ -108,7 +108,7 @@ namespace MSTESTRestSharp
             // Assert
             Assert.AreEqual(HttpStatusCode.OK, response.StatusCode);
             Employee employee = JsonConvert.DeserializeObject<Employee>(response.Content);
-            Assert.AreEqual("Shubham", employee.name);
+            Assert.AreEqual("akhil", employee.name);
             Assert.AreEqual("65000", employee.salary);
             Console.WriteLine(response.Content);
         }
